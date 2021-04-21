@@ -53,7 +53,10 @@
 			isa = PBXGroup;
 			children = (
 				861E39262630C3CA00F7D9E2 /* YouTube_APIApp.swift */,
-				861E39282630C3CA00F7D9E2 /* ContentView.swift */,
+				861E39382630C46A00F7D9E2 /* Views */,
+				861E39372630C45D00F7D9E2 /* ViewModels */,
+				861E39362630C44200F7D9E2 /* Models */,
+				861E39392630C47500F7D9E2 /* Resources */,
 				861E392A2630C3CD00F7D9E2 /* Assets.xcassets */,
 				861E392F2630C3CD00F7D9E2 /* Info.plist */,
 				861E392C2630C3CD00F7D9E2 /* Preview Content */,
@@ -67,6 +70,35 @@
 				861E392D2630C3CD00F7D9E2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		861E39362630C44200F7D9E2 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		861E39372630C45D00F7D9E2 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				861E39282630C3CA00F7D9E2 /* ContentView.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		861E39382630C46A00F7D9E2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		861E39392630C47500F7D9E2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
